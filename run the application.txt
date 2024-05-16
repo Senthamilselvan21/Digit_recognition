@@ -6,16 +6,11 @@ For executing the project in VS code you must follow the steps:
 
 >application pythonfile <app.py> .
 
->Then choose the directory where you saved all the files then click on the code after then run the code it will perform in the local host like <http://127.0.0.1:8000>.
+>open command prompt and go the application directory.
 
+>run the code you got a local host url look like this<http://127.0.0.1:8000>.
 
-For executing the project in conda promt you must follow the steps:
+paste the url in the browser you can see the application. 
 
->Follow the above three steps.
-
->In the prompt choose the correct destination of the <app.py> folder and the type -python app.py .
-
->It will also perform in the local host like <http://127.0.0.1:8000>.
-
->For stop the execution press CTRL+C for windows.
+>For stop the execution press CTRL+C in CMD.
 
